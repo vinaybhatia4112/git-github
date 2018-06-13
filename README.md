@@ -1,2 +1,2 @@
 # git-github
-trying git
+trying git for tutorial purpose
